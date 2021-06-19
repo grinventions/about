@@ -10,6 +10,15 @@ I established this organization to put bunch of repos I was working on in my spa
 
 The goal as for now is to implemente the Mimblewimble protocol in Python, JavaScript and PHP in order to allow wallets, nodes, payment processors and other nice thingies being made in those languages.
 
+## Roadmap (whatever)
+
+Some stuff I wanna have
+
+1. Mimblewimble module in Python/JavaScript/PHP, capable of handling outputs, transactions, blocks slatepacks etc.
+2. Translation of [grinmw](https://github.com/grinfans/grinmw.py) by [@xiaojay](https://github.com/xiaojay) to PHP.
+3. Implementation of grin payment method as Woocommerce/Magento plugins for e-commerce (without the need of running any listeners apart from providing access to a node).
+4. A payment gateway similar to [BTCPay](https://btcpayserver.org/) that runs on cheap hosting servers and requires only access to a running node.
+
 ## Updates
 
 I am going to regularly write what has been done in the [telegram channel](https://t.me/grinventions).
