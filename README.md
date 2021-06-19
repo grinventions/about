@@ -10,6 +10,10 @@ I established this organization to put bunch of repos I was working on in my spa
 
 The goal as for now is to implemente the Mimblewimble protocol in Python, JavaScript and PHP in order to allow wallets, nodes, payment processors and other nice thingies being made in those languages.
 
+## Updates
+
+I am going to regularly write what has been done in the [telegram channel](https://t.me/grinventions).
+
 ## Resources
 
 ### Logo
