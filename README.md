@@ -1,6 +1,6 @@
 # Grinventions
 
-![logo](https://github.com/grinventions/about/blob/main/graphics/logo.png?raw=true)
+![logo](https://github.com/grinventions/about/blob/main/graphics/logo/logo.png?raw=true)
 
 Yeah yeah I'll update this description
 
