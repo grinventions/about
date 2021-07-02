@@ -14,6 +14,10 @@ The goal as for now is to implemente the Mimblewimble protocol in Python, JavaSc
 
 1. [mimblewimble-py](https://github.com/grinventions/mimblewimble-py) Python implementation of Mimblewimble protocol for Grin. Will allow easy implementation Python-based wallets, nodes, payment processors, payment-proof verificators etc.
 
+## New ideas
+
+Proposals for new grinventions will be listed in [this repository](https://github.com/grinventions/ideas).
+
 ## Roadmap (whatever)
 
 Some stuff I wanna have
