@@ -27,6 +27,10 @@ Some stuff I wanna have
 3. Implementation of grin payment method as Woocommerce/Magento plugins for e-commerce (without the need of running any listeners apart from providing access to a node).
 4. A payment gateway similar to [BTCPay](https://btcpayserver.org/) that runs on cheap hosting servers and requires only access to a running node.
 
+The v0.0.1 roadmap in the diagram form
+
+![roadmap diagram](https://github.com/grinventions/about/blob/main/graphics/roadmap.png?raw=true)
+
 ## Updates
 
 I am going to regularly write what has been done in the [telegram channel](https://t.me/grinventions). Stay tuned!
